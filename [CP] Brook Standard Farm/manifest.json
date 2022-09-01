@@ -1,8 +1,8 @@
 {
-	"Name": "Zoniventris Standard Farm",
+	"Name": "Brook Standard Farm",
 	"Author": "zoniventris",
 	"Version": "1.0",
-	"Description": "Replaces ponds on the standard map with a river.",
+	"Description": "Replaces ponds on the standard map with a small river.",
 	"UniqueID": "zoniventris.standardfarm",
 	"MinimumApiVersion": "2.5",
 	"ContentPackFor": {
