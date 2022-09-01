@@ -3,10 +3,15 @@
 	"Author": "zoniventris",
 	"Version": "1.0",
 	"Description": "Replaces ponds on the standard map with a small river.",
-	"UniqueID": "zoniventris.standardfarm",
+	"UniqueID": "zoniventris.brookstandardfarm",
 	"MinimumApiVersion": "2.5",
 	"ContentPackFor": {
 		"UniqueID": "Pathoschild.ContentPatcher",
 		"MinimumVersion": "1.5.3"
-	}
+	},
+	"Dependencies": [
+		{
+			"UniqueID": "DaisyNiko.Tilesheets"
+		}
+	]
 }
